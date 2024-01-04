@@ -7,8 +7,10 @@ I've been working on various projects for several years, it all started with min
 * ✉️  You can contact me at [theholyexception@gmail.com](mailto:theholyexception@gmail.com)
 * 🧠  I'm learning Angular & Typescript
 
-### Skills
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/TheHolyException#0147) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pat.rick_kbl) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/theholyexception) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16907723) 
 
+# 💻 Tech Stack:
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -30,7 +32,7 @@ I've been working on various projects for several years, it all started with min
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="36" height="36"/> </a>
 </p>
 
-### Tools
+# Tools
 <p align="left">
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://logonoid.com/images/intellij-idea-logo.png" width="36" height="36" alt="IntelliJ"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="36" height="36" alt="Visual Studio Code"/></a>
@@ -38,14 +40,13 @@ I've been working on various projects for several years, it all started with min
   <a href="https://inkscape.org/" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2018/02/inkscape-logo-1.png" width="36" height="36" alt="Inkscape"/></a>    
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/TheHolyException#0147" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/TheHolyException" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/TheHolyException" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
+# 📊 GitHub Stats:
 <a href="http://www.github.com/TheHolyException"><img src="https://github-readme-stats.vercel.app/api?username=TheHolyException&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TheHolyException's GitHub stats" /></a>
 
 <a href="https://github.com/TheHolyException" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHolyException&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=theholyexception&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=theholyexception&icon=0&color=0)](https://visitcount.itsvg.in)
