@@ -5,7 +5,7 @@ I've been working on various projects for several years, it all started with min
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [theholyexception@gmail.com](mailto:theholyexception@gmail.com)
-* 🧠  I'm learning Angular & Typescript
+* 🧠  I'm currently learning Blender 4.0
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/TheHolyException#0147) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pat.rick_kbl) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/theholyexception) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16907723) 
