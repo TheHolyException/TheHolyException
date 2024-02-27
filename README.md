@@ -34,7 +34,7 @@ I've been working on various projects for several years, it all started with min
 
 # Tools
 <p align="left">
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://logonoid.com/images/intellij-idea-logo.png" width="36" height="36" alt="IntelliJ"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://logodix.com/logo/1798530.png" width="36" height="36" alt="IntelliJ"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="36" height="36" alt="Visual Studio Code"/></a>
   <a href="https://visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1b6d695a-be0d-4aaf-920f-675585b5bb9c.png?auto=format&ixlib=react-9.0.3&w=2618" width="36" height="36" alt="Visual Studio"/></a>
   <a href="https://inkscape.org/" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2018/02/inkscape-logo-1.png" width="36" height="36" alt="Inkscape"/></a>    
