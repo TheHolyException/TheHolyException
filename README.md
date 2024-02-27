@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patrick
 ===============================================================================================================================
 
-I've been working on various projects for several years, it all started with minecraft and relatively quickly began the first other projects. I am currently working as an jr. software engineer
+I've been engaged in diverse projects for several years, initially inspired by Minecraft, which swiftly led me to explore other endeavors. Additionally, I handle server administration and management utilizing Docker. Currently, I'm employed as a junior software engineer.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [theholyexception@gmail.com](mailto:theholyexception@gmail.com)
